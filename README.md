@@ -63,17 +63,21 @@
 <h3>GitHub Analytics</h3>
 
 <p align="center">
+  <!-- Muestra las estadísticas generales del perfil de GitHub -->
   <a href="https://github.com/aguijarro1029">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aguijarro1029&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
+  <!-- Muestra las estadísticas de los lenguajes más utilizados -->
   <a href="https://github.com/aguijarro1029">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aguijarro1029&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aguijarro1029&layout=compact&langs_count=10&theme=algolia"/>
   </a>
 </p>
 
 <p align="center">
+  <!-- Muestra la racha de commits -->
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aguijarro1029&theme=dark&hide_border=true"/>
 </p>
+
 
 
 
