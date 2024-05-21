@@ -60,8 +60,7 @@
 
 <br>
 
-<h3>Statistical Data :-</h3>
-### ⚙️ &nbsp;GitHub Analytics
+<h3>GitHub Analytics</h3>
 
 <p align="center">
   <a href="https://github.com/Adityakanoi2001">
