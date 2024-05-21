@@ -8,11 +8,6 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🌱 I’m currently learning Web Development and other programming languages
-
-- 📫 How to reach me **adampithewan@gmail.com**
-
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
 
 <br>
 
@@ -64,9 +59,10 @@
 
 <p align="center">
   <!-- Muestra las estadísticas generales del perfil de GitHub -->
-  <a href="https://github.com/aguijarro1029">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aguijarro1029&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
+  <p><img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=aguijarro1029&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="aguijarro1029" 
+    bg_color=#808080/></p>
   <!-- Muestra las estadísticas de los lenguajes más utilizados -->
   <a href="https://github.com/aguijarro1029">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aguijarro1029&layout=compact&langs_count=10&theme=algolia"/>
